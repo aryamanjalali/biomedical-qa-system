@@ -1,0 +1,25 @@
+# Core dependencies
+sentence-transformers>=3.4.0
+transformers>=4.35.0
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Retrieval
+rank-bm25>=0.2.2
+
+# Datasets and evaluation
+datasets>=2.14.0
+evaluate>=0.4.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Jupyter for notebooks
+jupyter>=1.0.0
+ipykernel>=6.25.0
+notebook>=6.5.0
+
+# Optional: For data download (if needed)
+# wldhx.yadisk-direct  # Uncomment if using Yandex Disk data source
+
